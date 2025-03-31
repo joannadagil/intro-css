@@ -1,0 +1,13 @@
+C:\Users\s231008\Desktop\lab04\silnia\bin\Debug\netcoreapp3.1\silnia.exe
+C:\Users\s231008\Desktop\lab04\silnia\bin\Debug\netcoreapp3.1\silnia.deps.json
+C:\Users\s231008\Desktop\lab04\silnia\bin\Debug\netcoreapp3.1\silnia.runtimeconfig.json
+C:\Users\s231008\Desktop\lab04\silnia\bin\Debug\netcoreapp3.1\silnia.runtimeconfig.dev.json
+C:\Users\s231008\Desktop\lab04\silnia\bin\Debug\netcoreapp3.1\silnia.dll
+C:\Users\s231008\Desktop\lab04\silnia\bin\Debug\netcoreapp3.1\silnia.pdb
+C:\Users\s231008\Desktop\lab04\silnia\obj\Debug\netcoreapp3.1\silnia.csprojAssemblyReference.cache
+C:\Users\s231008\Desktop\lab04\silnia\obj\Debug\netcoreapp3.1\silnia.AssemblyInfoInputs.cache
+C:\Users\s231008\Desktop\lab04\silnia\obj\Debug\netcoreapp3.1\silnia.AssemblyInfo.cs
+C:\Users\s231008\Desktop\lab04\silnia\obj\Debug\netcoreapp3.1\silnia.csproj.CoreCompileInputs.cache
+C:\Users\s231008\Desktop\lab04\silnia\obj\Debug\netcoreapp3.1\silnia.dll
+C:\Users\s231008\Desktop\lab04\silnia\obj\Debug\netcoreapp3.1\silnia.pdb
+C:\Users\s231008\Desktop\lab04\silnia\obj\Debug\netcoreapp3.1\silnia.genruntimeconfig.cache

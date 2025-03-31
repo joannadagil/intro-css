@@ -1,0 +1,13 @@
+C:\Users\s231008\Desktop\lab04\fibbonaci\bin\Debug\netcoreapp3.1\fibbonaci.exe
+C:\Users\s231008\Desktop\lab04\fibbonaci\bin\Debug\netcoreapp3.1\fibbonaci.deps.json
+C:\Users\s231008\Desktop\lab04\fibbonaci\bin\Debug\netcoreapp3.1\fibbonaci.runtimeconfig.json
+C:\Users\s231008\Desktop\lab04\fibbonaci\bin\Debug\netcoreapp3.1\fibbonaci.runtimeconfig.dev.json
+C:\Users\s231008\Desktop\lab04\fibbonaci\bin\Debug\netcoreapp3.1\fibbonaci.dll
+C:\Users\s231008\Desktop\lab04\fibbonaci\bin\Debug\netcoreapp3.1\fibbonaci.pdb
+C:\Users\s231008\Desktop\lab04\fibbonaci\obj\Debug\netcoreapp3.1\fibbonaci.csprojAssemblyReference.cache
+C:\Users\s231008\Desktop\lab04\fibbonaci\obj\Debug\netcoreapp3.1\fibbonaci.AssemblyInfoInputs.cache
+C:\Users\s231008\Desktop\lab04\fibbonaci\obj\Debug\netcoreapp3.1\fibbonaci.AssemblyInfo.cs
+C:\Users\s231008\Desktop\lab04\fibbonaci\obj\Debug\netcoreapp3.1\fibbonaci.csproj.CoreCompileInputs.cache
+C:\Users\s231008\Desktop\lab04\fibbonaci\obj\Debug\netcoreapp3.1\fibbonaci.dll
+C:\Users\s231008\Desktop\lab04\fibbonaci\obj\Debug\netcoreapp3.1\fibbonaci.pdb
+C:\Users\s231008\Desktop\lab04\fibbonaci\obj\Debug\netcoreapp3.1\fibbonaci.genruntimeconfig.cache
