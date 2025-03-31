@@ -1,0 +1,12 @@
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\bin\Debug\netcoreapp3.1\KwadratLiczby.exe
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\bin\Debug\netcoreapp3.1\KwadratLiczby.deps.json
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\bin\Debug\netcoreapp3.1\KwadratLiczby.runtimeconfig.json
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\bin\Debug\netcoreapp3.1\KwadratLiczby.runtimeconfig.dev.json
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\bin\Debug\netcoreapp3.1\KwadratLiczby.dll
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\bin\Debug\netcoreapp3.1\KwadratLiczby.pdb
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\obj\Debug\netcoreapp3.1\KwadratLiczby.AssemblyInfoInputs.cache
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\obj\Debug\netcoreapp3.1\KwadratLiczby.AssemblyInfo.cs
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\obj\Debug\netcoreapp3.1\KwadratLiczby.csproj.CoreCompileInputs.cache
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\obj\Debug\netcoreapp3.1\KwadratLiczby.dll
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\obj\Debug\netcoreapp3.1\KwadratLiczby.pdb
+C:\Users\s231008\Desktop\Demo2\KwadratLiczby\obj\Debug\netcoreapp3.1\KwadratLiczby.genruntimeconfig.cache

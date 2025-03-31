@@ -1,0 +1,12 @@
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\bin\Debug\netcoreapp3.1\ObliczObwodProstokata.exe
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\bin\Debug\netcoreapp3.1\ObliczObwodProstokata.deps.json
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\bin\Debug\netcoreapp3.1\ObliczObwodProstokata.runtimeconfig.json
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\bin\Debug\netcoreapp3.1\ObliczObwodProstokata.runtimeconfig.dev.json
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\bin\Debug\netcoreapp3.1\ObliczObwodProstokata.dll
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\bin\Debug\netcoreapp3.1\ObliczObwodProstokata.pdb
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\obj\Debug\netcoreapp3.1\ObliczObwodProstokata.AssemblyInfoInputs.cache
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\obj\Debug\netcoreapp3.1\ObliczObwodProstokata.AssemblyInfo.cs
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\obj\Debug\netcoreapp3.1\ObliczObwodProstokata.csproj.CoreCompileInputs.cache
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\obj\Debug\netcoreapp3.1\ObliczObwodProstokata.dll
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\obj\Debug\netcoreapp3.1\ObliczObwodProstokata.pdb
+C:\Users\s231008\Desktop\Demo2\ObliczObwodProstokata\obj\Debug\netcoreapp3.1\ObliczObwodProstokata.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\bin\Debug\netcoreapp3.1\PierwszaFunkcja.exe
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\bin\Debug\netcoreapp3.1\PierwszaFunkcja.deps.json
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\bin\Debug\netcoreapp3.1\PierwszaFunkcja.runtimeconfig.json
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\bin\Debug\netcoreapp3.1\PierwszaFunkcja.runtimeconfig.dev.json
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\bin\Debug\netcoreapp3.1\PierwszaFunkcja.dll
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\bin\Debug\netcoreapp3.1\PierwszaFunkcja.pdb
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\obj\Debug\netcoreapp3.1\PierwszaFunkcja.csprojAssemblyReference.cache
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\obj\Debug\netcoreapp3.1\PierwszaFunkcja.AssemblyInfoInputs.cache
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\obj\Debug\netcoreapp3.1\PierwszaFunkcja.AssemblyInfo.cs
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\obj\Debug\netcoreapp3.1\PierwszaFunkcja.csproj.CoreCompileInputs.cache
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\obj\Debug\netcoreapp3.1\PierwszaFunkcja.dll
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\obj\Debug\netcoreapp3.1\PierwszaFunkcja.pdb
+C:\Users\s231008\Desktop\Demo2\PierwszaFunkcja\obj\Debug\netcoreapp3.1\PierwszaFunkcja.genruntimeconfig.cache
