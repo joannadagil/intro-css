@@ -1,0 +1,13 @@
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\obj\Debug\netcoreapp3.1\lab2.csprojAssemblyReference.cache
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\s231008\Desktop\lab_wdp\wieza\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache

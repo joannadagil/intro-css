@@ -1,0 +1,13 @@
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\bin\Debug\netcoreapp3.1\sztanga.exe
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\bin\Debug\netcoreapp3.1\sztanga.deps.json
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\bin\Debug\netcoreapp3.1\sztanga.runtimeconfig.json
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\bin\Debug\netcoreapp3.1\sztanga.runtimeconfig.dev.json
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\bin\Debug\netcoreapp3.1\sztanga.dll
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\bin\Debug\netcoreapp3.1\sztanga.pdb
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\obj\Debug\netcoreapp3.1\sztanga.csprojAssemblyReference.cache
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\obj\Debug\netcoreapp3.1\sztanga.AssemblyInfoInputs.cache
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\obj\Debug\netcoreapp3.1\sztanga.AssemblyInfo.cs
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\obj\Debug\netcoreapp3.1\sztanga.csproj.CoreCompileInputs.cache
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\obj\Debug\netcoreapp3.1\sztanga.dll
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\obj\Debug\netcoreapp3.1\sztanga.pdb
+C:\Users\s231008\Desktop\lab_wdp\wieza\sztanga\obj\Debug\netcoreapp3.1\sztanga.genruntimeconfig.cache

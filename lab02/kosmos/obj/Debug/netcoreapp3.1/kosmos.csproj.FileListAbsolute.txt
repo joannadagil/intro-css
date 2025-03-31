@@ -1,0 +1,13 @@
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\bin\Debug\netcoreapp3.1\kosmos.exe
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\bin\Debug\netcoreapp3.1\kosmos.deps.json
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\bin\Debug\netcoreapp3.1\kosmos.runtimeconfig.json
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\bin\Debug\netcoreapp3.1\kosmos.runtimeconfig.dev.json
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\bin\Debug\netcoreapp3.1\kosmos.dll
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\bin\Debug\netcoreapp3.1\kosmos.pdb
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\obj\Debug\netcoreapp3.1\kosmos.csprojAssemblyReference.cache
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\obj\Debug\netcoreapp3.1\kosmos.AssemblyInfoInputs.cache
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\obj\Debug\netcoreapp3.1\kosmos.AssemblyInfo.cs
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\obj\Debug\netcoreapp3.1\kosmos.csproj.CoreCompileInputs.cache
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\obj\Debug\netcoreapp3.1\kosmos.dll
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\obj\Debug\netcoreapp3.1\kosmos.pdb
+C:\Users\s231008\Desktop\lab_wdp\wieza\kosmos\obj\Debug\netcoreapp3.1\kosmos.genruntimeconfig.cache
