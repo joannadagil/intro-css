@@ -1,0 +1,13 @@
+C:\Users\s231008\source\repos\lab07\Liczba\bin\Debug\netcoreapp3.1\Liczba.exe
+C:\Users\s231008\source\repos\lab07\Liczba\bin\Debug\netcoreapp3.1\Liczba.deps.json
+C:\Users\s231008\source\repos\lab07\Liczba\bin\Debug\netcoreapp3.1\Liczba.runtimeconfig.json
+C:\Users\s231008\source\repos\lab07\Liczba\bin\Debug\netcoreapp3.1\Liczba.runtimeconfig.dev.json
+C:\Users\s231008\source\repos\lab07\Liczba\bin\Debug\netcoreapp3.1\Liczba.dll
+C:\Users\s231008\source\repos\lab07\Liczba\bin\Debug\netcoreapp3.1\Liczba.pdb
+C:\Users\s231008\source\repos\lab07\Liczba\obj\Debug\netcoreapp3.1\Liczba.csprojAssemblyReference.cache
+C:\Users\s231008\source\repos\lab07\Liczba\obj\Debug\netcoreapp3.1\Liczba.AssemblyInfoInputs.cache
+C:\Users\s231008\source\repos\lab07\Liczba\obj\Debug\netcoreapp3.1\Liczba.AssemblyInfo.cs
+C:\Users\s231008\source\repos\lab07\Liczba\obj\Debug\netcoreapp3.1\Liczba.csproj.CoreCompileInputs.cache
+C:\Users\s231008\source\repos\lab07\Liczba\obj\Debug\netcoreapp3.1\Liczba.dll
+C:\Users\s231008\source\repos\lab07\Liczba\obj\Debug\netcoreapp3.1\Liczba.pdb
+C:\Users\s231008\source\repos\lab07\Liczba\obj\Debug\netcoreapp3.1\Liczba.genruntimeconfig.cache
